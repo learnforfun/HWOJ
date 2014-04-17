@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding='ISO-8859-1' standalone='yes' ?>
+<?xml-stylesheet type="text/xsl" href="report.xsl"?>
+<TestRun>
+  <FailedTests></FailedTests>
+  <SuccessfulTests>
+    <Test id="1">
+      <Name>CExampleTest::TestCase01</Name>
+    </Test>
+    <Test id="2">
+      <Name>CExampleTest::TestCase02</Name>
+    </Test>
+    <Test id="3">
+      <Name>CExampleTest::TestCase03</Name>
+    </Test>
+    <Test id="4">
+      <Name>CExampleTest::TestCase04</Name>
+    </Test>
+    <Test id="5">
+      <Name>CExampleTest::TestCase05</Name>
+    </Test>
+    <Test id="6">
+      <Name>CExampleTest::TestCase06</Name>
+    </Test>
+    <Test id="7">
+      <Name>CExampleTest::TestCase07</Name>
+    </Test>
+    <Test id="8">
+      <Name>CExampleTest::TestCase08</Name>
+    </Test>
+    <Test id="9">
+      <Name>CExampleTest::TestCase09</Name>
+    </Test>
+    <Test id="10">
+      <Name>CExampleTest::TestCase10</Name>
+    </Test>
+    <Test id="11">
+      <Name>CExampleTest::TestCase11</Name>
+    </Test>
+    <Test id="12">
+      <Name>CExampleTest::TestCase12</Name>
+    </Test>
+    <Test id="13">
+      <Name>CExampleTest::TestCase13</Name>
+    </Test>
+    <Test id="14">
+      <Name>CExampleTest::TestCase14</Name>
+    </Test>
+    <Test id="15">
+      <Name>CExampleTest::TestCase15</Name>
+    </Test>
+  </SuccessfulTests>
+  <Statistics>
+    <Tests>15</Tests>
+    <FailuresTotal>0</FailuresTotal>
+    <Errors>0</Errors>
+    <Failures>0</Failures>
+  </Statistics>
+</TestRun>
